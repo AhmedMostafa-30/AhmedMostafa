@@ -19,4 +19,15 @@ Data Analysis Engineer with a background in Computer Science. Skilled in SQL, Po
 
 ---
 
+<h3 align="left">Languages and Tools:</h3>
+
+- **Power BI**: DAX, Power Query, M Language, Data Modeling
+- **Tableau**
+- **Microsoft SQL Server**: SQL Server Managment System (SSMS), SQL Server Integration System (SSIS)
+- **SQL** (T-SQL)
+- **Excel**: Power Query
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn
+
+---
+
 > "The best way to learn is to build — and I build with data."
