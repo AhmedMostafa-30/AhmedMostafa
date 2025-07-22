@@ -7,7 +7,7 @@ Data Analysis Engineer with a background in Computer Science. Skilled in SQL, Po
 ---
 
 - I'm constantly learning, working on real-world projects, and aiming to make data more meaningful and impactful.
-- Check out my [Resume]()
+- Check out my [Resume](https://flowcv.com/resume/8d9n4hfbhm5s)
 
 ---
 
